@@ -7,14 +7,14 @@
 
 <!-- versionCode is optional and Android only -->
 
-  <name>Hello</name>
+  <name>Bones</name>
 
   <description>
-      Hello
+      Bones
   </description>
 
   <author href="https://build.phonegap.com" email="support@phonegap.com">
       Author
   </author>
-  <icon src="img/hello.png" />
+  <icon src="img/skull.png" />
 </widget>
